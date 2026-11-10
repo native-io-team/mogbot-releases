@@ -18,7 +18,7 @@ Code, Codex or OpenCode. The app is signed and notarized by Apple.
 
 ## Phone app
 
-- iPhone: App Store, coming soon
+- iPhone: [TestFlight beta](https://testflight.apple.com/join/fsm64m5E)
 - Android: Google Play, coming soon
 
 The phone app is a remote for the Mogbot on your Mac. It pairs with a QR code
@@ -28,10 +28,10 @@ goes through our servers.
 ## Privacy
 
 No account of ours, no analytics, no crash reports. Your agents, chats and
-logins stay on your Mac. [Privacy policy](https://mogbot-site.vercel.app/privacy)
+logins stay on your Mac. [Privacy policy](https://mogbot.app/privacy)
 
 ## Support
 
-Email juliangalluzzois@gmail.com · [Support page](https://mogbot-site.vercel.app/support)
+Email juliangalluzzois@gmail.com · [Support page](https://mogbot.app/support)
 
 This repo holds only the release downloads.
