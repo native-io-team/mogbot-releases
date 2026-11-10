@@ -11,7 +11,7 @@ people see waits for your Allow.
 
 ## Download
 
-**[Mogbot 1.0.0 for Mac (Apple Silicon)](https://github.com/native-io-team/mogbot-releases/releases/download/v1.0.0/Mogbot_1.0.0_aarch64.dmg)**
+**[Mogbot 1.0.1 for Mac (Apple Silicon)](https://github.com/native-io-team/mogbot-releases/releases/download/v1.0.1/Mogbot_1.0.1_aarch64.dmg)**
 
 Needs macOS 14 or later on an Apple Silicon Mac, and an account for Claude
 Code, Codex or OpenCode. The app is signed and notarized by Apple.
